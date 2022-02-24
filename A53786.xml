@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Catalogus librorum in Theatro Sheldoniano Oxon. impressorum.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53786</idno>
+            <idno type="STC">Wing O864A</idno>
+            <idno type="STC">ESTC R214691</idno>
+            <idno type="EEBO-CITATION">99826778</idno>
+            <idno type="PROQUEST">99826778</idno>
+            <idno type="VID">31184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53786)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 31184)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1769:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Catalogus librorum in Theatro Sheldoniano Oxon. impressorum.</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>The final leaf is blank.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catalogs, Booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="catalogue_of_Oxford_University_Press">
+            <pb facs="tcp:31184:1" rendition="simple:additions"/>
+            <head>CATALOGUS LIBRORUM IN <hi>Theatro Sheldoniano Oxon.</hi> IMPRESSORUM.</head>
+            <list>
+               <head>IN FOLIO.</head>
+               <item>BIble for Churches with Chronology, and an Index.</item>
+               <item>Bible for Churches, in Welch.</item>
+               <item>The <hi>Engliſh</hi> Atlas, Vol. 1. 2. 3. 4. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> ſive Pandectae Canonum S. S. Apoſtolorum &amp; Conciliorum ab Eccleſia Graeca receptorum, nec non canonicarum S. S. Patrum Epiſtolarum una cum Scholiis antiquorum ſingulis annexis, &amp; Scriptis aliis huc ſpe<g ref="char:EOLhyphen"/>ctantibus, quorum plurima è Bibliothecae Bodleianae, aliarumque MSS. codicibus nunc primum edita, reli<g ref="char:EOLhyphen"/>qua cum iiſdem MSS. ſumma ſide &amp; diligentia collata. Totum opus in duos Tomos diviſum, <hi>Guil. Beveregius</hi> Eccleſiae Angl. Presbyter recenſuit, Prolegomenis muni<g ref="char:EOLhyphen"/>vit, &amp; Annott. auxit.</item>
+               <item>Catalogus impreſſorum Librorum Bibliothecae Bodleia<g ref="char:EOLhyphen"/>nae in Acad. Oxon.</item>
+               <item>Hiſtoria Univerſitatis Oxonienſis duobus voluminibus comprehenſa. Autore <hi>Antonio à Wood.</hi>
+               </item>
+               <item>Oxonia illuſtrata, ſive omnium celeberrimae iſtius Univerſitatis Collegiorum, Aularum, &amp;c. Scenographia, per <hi>Dav. Loggan.</hi>
+               </item>
+               <item>Plantarum Umbelliferarum diſtributio nova per ta<g ref="char:EOLhyphen"/>bulas
+<pb facs="tcp:31184:2"/>
+cognationis &amp; affinitatis, ex libro naturae obſer<g ref="char:EOLhyphen"/>vata &amp; detecta. Autore <hi>Rob. Morriſon,</hi> Prof. Botanico.</item>
+               <item>Plantarum Hiſtoriae Univerſalis Oxonienſis pars 2<hi rend="sup">da</hi>, ſeu Herbarum diſtributio nova, per tabulas cognatio<g ref="char:EOLhyphen"/>nis &amp; affinitatis ex libro naturae obſervata &amp; detecta. Autore <hi>Rob. Morriſon</hi> medico &amp; Profeſſore Botanico Regio 1680.</item>
+               <item>The Hiſtory of Lapland.</item>
+               <item>Marmora Oxonienſia, ex Arundelianis, Seldenianis, aliiſque conflata, &amp;c. cum notis <hi>Lydiati</hi> &amp; aliorum. Per <hi>Humph. Prideaux.</hi>
+               </item>
+               <item>The Natural Hiſtory of Oxford-Shire, being an Eſſay towards the Natural Hiſtory of England. By <hi>Robert Plott</hi> L. L. D.</item>
+               <item>The Natural Hiſtory of Stafford-Shire, by <hi>R. Plott</hi> L. L. D.</item>
+               <item>Theatri Oxonienſis Encaenia, ſive Comitia Philolo<g ref="char:EOLhyphen"/>gica, <hi>Jul.</hi> 6. Anno 1677. Celebrata.</item>
+               <item>Dr. <hi>Pocock</hi>'s Commentary on <hi>Micah, Malachi, Hoſea,</hi> and <hi>Joel.</hi>
+               </item>
+               <item>Iamblichus Chalcidenſis de Myſteriis Aegyptiorum Gr. Lat. Interprete <hi>T. Gale.</hi>
+               </item>
+               <item>Regis Aelfredi vita, cum Notis.</item>
+               <item>Sancti Caecilii Cypriani opera Notis illuſtrata.</item>
+               <item>
+                  <hi>Gualteri Charletoni</hi> M. D. <hi>Onomaſticon Zoicon.</hi> Editio ſecunda priori longe auctior.</item>
+               <item>Rerum Anglicarum Scriptorum Veterum XX. Tom. 1. 2. 3. per <hi>T. Gale,</hi> D. D.</item>
+               <item>Franſciſci Willughbeii Armigeri, de Hiſtoria Piſcium. Cura <hi>Jo. Raij</hi> è Societate Regia.</item>
+               <item>The Works of the Learned and Pious Author of the Whole Duty of Man.</item>
+               <item>
+                  <hi>Jo. Scotus</hi> de Diviſione Naturae.</item>
+               <item>Dr. <hi>Alleſtree</hi>'s Sermons.</item>
+               <item>The Old and New Geography, in two large Tables.</item>
+               <item>Theatri Oxonienſis Encaenia, ſive Comitia Philologica, <hi>Jul.</hi> 7. 1693. celebrata.</item>
+               <item>Tabula<g ref="char:punc">▪</g> Alphabetorum Orientalium &amp; Occidentalium per <hi>Edvardum Bernardum.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:31184:2"/>
+               <head>Libri in <hi>Fol.</hi> ſub prelo ſudantes.</head>
+               <item>Catologi Librorum Manuſcriptorum Univerſitatis Oxonienſis Tomi duo. Horum prior Bibliothecae Bod<g ref="char:EOLhyphen"/>leianae Codices Complectitur. Altero vero Collegiorum &amp; Aularum libri veteres continentur.</item>
+               <item>Plantarum Hiſtoriae Univerſalis Oxonienſis pars tertia, ſeu Herbarum diſtributio nova, per tabulas cognationis &amp; affinitatis ex libro naturae obſervata &amp; detecta.</item>
+               <item>Joſephus Gr. Lat. cum Notis.</item>
+               <item>Novum Teſtamentum Graec.</item>
+               <item>Chronologia Univerſalis, Auctore D<hi rend="sup">no</hi>. <hi>Gu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l. Lloydio</hi> Epiſcopo <hi>Cov.</hi> &amp; <hi>Lichfield.</hi>
+               </item>
+               <item>
+                  <hi>Johannis Wallis</hi> S. T. D. Geometriae Profeſſoris Savi<g ref="char:EOLhyphen"/>liani, in Celeberrima Academia <hi>Oxonienſi,</hi> Opera Mathe<g ref="char:EOLhyphen"/>matica duobus Voluminibus contenta.</item>
+               <item>Thucydides Gr. Lat. Cum Scholiis antiquis, varianti<g ref="char:EOLhyphen"/>bus lectionibus, &amp; Notis.</item>
+            </list>
+            <list>
+               <pb facs="tcp:31184:3"/>
+               <head>IN QUARTO.</head>
+               <item>SEveral Engliſh Bibles with the Liturgy, Apocrypha, ſinging Pſalms, and Chronology.</item>
+               <item>Icones &amp; Deſcriptiones rariorum Plantarum Siciliae,</item>
+               <item>Melitae, Galliae, &amp; Italiae. Autore <hi>Paulo Boccone.</hi>
+               </item>
+               <item>Common Prayer-Books.</item>
+               <item>
+                  <hi>Theophilus</hi> and <hi>Philodoxus,</hi> 4 controverſial dialogues, Of Prayer in an unknown tongue. The half Commu<g ref="char:EOLhyphen"/>nion. The worſhipping of Images. The Invocation of Saints. By <hi>Gilb. Cole</hi> D. D.</item>
+               <item>The Divine Authority of Scripture, a Sermon by Dr. <hi>Alleſtree.</hi>
+               </item>
+               <item>The Character of the laſt days, a Sermon by Dr. <hi>John Fell,</hi> Lord Biſhop of <hi>Oxford.</hi>
+               </item>
+               <item>Tractatus Maimonidis de donis Pauperum, cum ver<g ref="char:EOLhyphen"/>ſione latina &amp; Notis <hi>Hum. Prideaux</hi> Art. mag. ex Aed. Chriſti.</item>
+               <item>Hiſtoria Jacobitarum in Aegypto, Libya, Nubia, Aethio<g ref="char:EOLhyphen"/>pia tota, &amp; parte Cypri inſulae habitantium, per <hi>Joſ. Abudacnum.</hi>
+               </item>
+               <item>A view and ſurvey of the dangerous errors to Church and State in Mr. <hi>Hobbes</hi> his Book intituled Leviathan, by <hi>Edward</hi> Earl of <hi>Clarendon.</hi>
+               </item>
+               <item>Votum pro pace Chriſtiana, Autore <hi>And<g ref="char:punc">▪</g> Sall,</hi> D. D.</item>
+               <item>The Benefits of our Saviour to Mankind<g ref="char:punc">▪</g>
+               </item>
+               <item>A Sermon preached before the Houſe of Peers <hi>Dec.</hi> 22d, 1680. by Dr. <hi>John Fell</hi> Lord Biſhop of <hi>Oxford.</hi>
+               </item>
+               <item>A diſcourſe of Convex Glaſſes.</item>
+               <item>Dr. <hi>Willis</hi> de Anima Brutorum.</item>
+               <item>Pharmaceutice Rationalis vol. 2.</item>
+               <item>Claudii Ptolomaei Harmonica Gr. Lat. ex recenſione &amp; cum Notis <hi>Joh. Wallis</hi> S. T. D. Geom. Prof.</item>
+               <item>
+                  <hi>Coopers Hill,</hi> Poema Latine redditum ad Nobiliſſimum
+<pb facs="tcp:31184:3"/>
+Dominum <hi>Gulielmum</hi> Dominum <hi>Cavendiſh,</hi> Honoratiſſimi Domini <hi>Gulielmi</hi> Comitis <hi>Devoniae</hi> Filium unicum.</item>
+               <item>St. <hi>Cyprian</hi> of the Unity of the Church.</item>
+               <item>Defenſio Fidei Nicaenae; Auctore <hi>Georgio Bullo,</hi> Ec<g ref="char:EOLhyphen"/>cleſiae Angl. Presbytero.</item>
+               <item>A Sermon preached at the Earl of <hi>Rocheſter</hi>'s Fu<g ref="char:EOLhyphen"/>neral.</item>
+               <item>Chr. Waſi <hi>Senarius,</hi> ſive de Legibus &amp; Licentia Ve<g ref="char:EOLhyphen"/>terum Poetarum.</item>
+               <item>Hiſtorica Deſcriptio Complectens vitam, ac res ge<g ref="char:EOLhyphen"/>ſtas Beatiſſimi viri <hi>Gulielmi Wicami</hi> quondam Vintoni<g ref="char:EOLhyphen"/>enſis Epiſcopi,</item>
+               <item>De Judice Controverſiarum. per D. <hi>Aſhwell,</hi> Coll. <hi>Wadh.</hi>
+               </item>
+               <item>
+                  <hi>Miſhna</hi> Latine redditus &amp; Notis Illuſtratus à <hi>Guil. Guiſio.</hi>
+               </item>
+               <item>Account of the Perſecution of the Proteſtants in <hi>Piedmont.</hi>
+               </item>
+               <item>Itinera Mundi. Hebr. &amp; Lat. per <hi>T. Hyde</hi> D. D.</item>
+               <item>The Life of our Saviour Jeſus Chriſt.</item>
+               <item>Inſtitutiones Grammaticae Anglo-Saxonicae &amp; Moeſo-Gothicae. Auct. <hi>G. Hicks.</hi> D. D.</item>
+               <item>Polemo-Middinia, Carmen Macaronicum. Edidit <hi>E. G.</hi>
+               </item>
+               <item>Chronicon Saxonicum, ſeu Annales rerum in Anglia Praecipue geſtarum, à Chriſto nato ad Annum uſque MCLIV. deducti, ac jam demum Latinitate donati. Cum Indice rerum Chronologico. Operâ &amp; Studio <hi>Edmundi Gibſon,</hi> A. B. c Collegio <hi>Reginae.</hi>
+               </item>
+               <item>Novi Schiſmatis Redargutio. Gr. Lat. per <hi>Humph. Hody.</hi> Wadh. Coll.</item>
+               <item>A Sermon Preached before the Houſe of Commons, By Dr. <hi>Jane,</hi> Dean of <hi>Glouceſter.</hi>
+               </item>
+               <item>A Viſitation Sermon, Preached by Dr. <hi>Sparks.</hi>
+               </item>
+               <item>A Sermon concerning the Obligation of Oaths, by Mr. <hi>Hellier</hi> of Corpus Chriſti Colledge.</item>
+               <item>A Sermon Preached <hi>July</hi> 19. 1692. at the Conſecra<g ref="char:EOLhyphen"/>tion of a Chappel, by <hi>Charles Whiting,</hi> Fellow of Wadh. Coll. <hi>Oxon.</hi>
+               </item>
+               <item>Fides Eccleſiae Anglicane vindicata ab Incertitudine<g ref="char:punc">▪</g>
+                  <pb facs="tcp:31184:4"/>
+à <hi>Jo. Cudworth,</hi> S. Th. Bacc. &amp; Coll. Trin. Socio.</item>
+               <item>M. Fabii Quinctiliani de Inſtitutione Oratoria libri duodecim<g ref="char:punc">▪</g> cum duplici Indice; Rerum &amp; Locutionum altero, altero Auctorum. Ex Tribus Codicibus MSS. &amp; octo Impreſſis emendavit, atque Lectiones variantes ad<g ref="char:EOLhyphen"/>jecit <hi>Edmundus Gibſon,</hi> Art. Bac. è Coll. Reg. <hi>Oxon.</hi>
+               </item>
+               <item>A Preſervative againſt Socinianiſm. Shewing the Direct and Plain oppoſition between It, and the Religion Re<g ref="char:EOLhyphen"/>vealed by God in the Holy Scriptures. By <hi>Jonath. Ed<g ref="char:EOLhyphen"/>wards.</hi> D. D. The firſt part.</item>
+               <item>A Reply to two Diſcourſes concerning the Adoration of our Bleſſed Saviour in the Holy Euchariſt.</item>
+               <item>A Defence of the Reply to two Diſcourſes concerning the Adoration, <hi>&amp;c.</hi>
+               </item>
+               <item>An Anſwer to the <hi>Spirit of Martin Luther,</hi> and the <hi>Ori<g ref="char:EOLhyphen"/>ginal of the Reformation.</hi>
+               </item>
+               <item>Animadverſions on Mr. <hi>W's</hi> Diſcourſe of Church-Government.</item>
+               <item>An Anſwer to a Diſcourſe concerning the Celibacy of the Clergy.</item>
+               <item>An Anſwer to <hi>Pietas Romana &amp; Pariſienſis.</hi>
+               </item>
+               <item>Reflection on the Hiſtorical part of <hi>Church-Govern<g ref="char:EOLhyphen"/>ment,</hi> Part 5.</item>
+            </list>
+            <list>
+               <pb facs="tcp:31184:4"/>
+               <head>Libri in 4<hi rend="sup">to</hi>. ſub prelo ſudantes.</head>
+               <item>
+                  <hi>Parochial Antiquities</hi> Firſt attempted in the Hiſtory of <hi>Ambroſden, Burcester,</hi> and other adjacent Villages in the Counties of <hi>Oxon</hi> and <hi>Bucks,</hi> drawn from Au<g ref="char:EOLhyphen"/>thentic Records.</item>
+               <item>A Preſervative againſt Socinianiſm, Part II. By <hi>Jonath<g ref="char:punc">▪</g> Edwards</hi> D. D. Principal of <hi>Jeſus</hi> Coll. <hi>Oxford.</hi>
+               </item>
+            </list>
+            <list>
+               <pb facs="tcp:31184:5"/>
+               <head>IN OCTAVO.</head>
+               <item>
+                  <hi>THO. Lydiati</hi> Canones Chronologici, nec non ſeries ſummorum Magiſtratuum &amp; Triumphorum Roma<g ref="char:EOLhyphen"/>norum.</item>
+               <item>
+                  <hi>Saul</hi> and <hi>Samuel</hi> at Endor, or the new ways of ſal<g ref="char:EOLhyphen"/>vation and Service, which uſually tempt Men to <hi>Rome,</hi> and detain them there, truly repreſented and refuted by <hi>Dan. Brevent</hi> D. D. with the vindication of his <hi>Miſſale Rom.</hi> The ſecond Impreſſion.</item>
+               <item>A Paraphraſe and Annotations upon all the Epiſtles of St. <hi>Paul.</hi>
+               </item>
+               <item>The Ladies Calling.</item>
+               <item>The Government of the Tongue.</item>
+               <item>The Art of Contentment.</item>
+               <item>The Lively Oracles given to us, Or the Chriſtians Birth-right and duty in the cuſtody and uſe of the Holy Scripture: theſe four by the Author of the Whole duty of Man.</item>
+               <item>
+                  <hi>Xenophontis Cyrop.</hi> Graec.</item>
+               <item>A ſhort <hi>Diſſertation</hi> concerning Free-Schools, being an Eſſay towards a Hiſtory of the Free-Schools of <hi>England,</hi> by <hi>Chriſtopher Waſe</hi> of St. <hi>Mary Hall.</hi> Oxon, and Superiour Beadle of the Civil Law in the ſame Univerſity.</item>
+               <item>
+                  <hi>Epicteti</hi> Enchiridion, <hi>Cebetis</hi> Tabulae, <hi>Theophraſti</hi> Cha<g ref="char:EOLhyphen"/>racteres, Gr. Lat. cum Notis 1680.</item>
+               <item>Parecbolae, ſive excerpta è corpore ſtatutorum Univ. Oxon, &amp;c.</item>
+               <item>
+                  <hi>M. Fabii Quintiliani</hi> Declamationes undeviginti, cum ejuſdem (ut nonnullis viſum) dialogo de cauſis corru<g ref="char:EOLhyphen"/>ptae Eloquentiae, quae omnia notis illuſtrantur.</item>
+               <item>
+                  <hi>Nemeſii</hi> Philoſophi &amp; Epiſcopi<g ref="char:punc">▪</g> de natura hominis lib. unus, denuo recognitus &amp; Codicum MSS. collatione in integrum reſtitutus, annotationibuſque inſuper illuſtra<g ref="char:EOLhyphen"/>tus. Graec. Lat.</item>
+               <item>
+                  <pb facs="tcp:31184:5"/>Weſt Barbary, or a ſhort narrative of the revolu<g ref="char:EOLhyphen"/>tions of the Kingdom of <hi>Fez</hi> and <hi>Morocco,</hi> with an account of the preſent cuſtoms, ſacred, civil, and domeſtic, by <hi>L. Addiſon</hi> D. D.</item>
+               <item>
+                  <hi>Homeri</hi> Ilias, cum Scholiis <hi>Didymi</hi> Gr.</item>
+               <item>
+                  <hi>Theocritus</hi> cum Scholiis Graecis.</item>
+               <item>
+                  <hi>Aratus</hi> cum Scholiis Gr.</item>
+               <item>
+                  <hi>Suetonius Tranquillus,</hi> cum Notis.</item>
+               <item>De Eccleſiae Graecae ſtatu hodierno Epiſtola per <hi>Tho. Smith</hi> D. D.</item>
+               <item>
+                  <hi>Gul. Oughtredi</hi> opuſcula hactenus inedita.</item>
+               <item>
+                  <hi>Caii Plinii Caecilii Secundi</hi> Epiſtolae &amp; Oratio Pane<g ref="char:EOLhyphen"/>gyrica, Notis illuſtratae.</item>
+               <item>Rhetores ſelecti, Gr. Lat. <hi>Demetrius Phalereus</hi> de Elo<g ref="char:EOLhyphen"/>cutione; <hi>Tiberius Rhetor</hi> de Schematibus Demoſthenis; <hi>Anonymus Sophiſta</hi> de Rhetorica; <hi>Severi Alexandrini</hi> E<g ref="char:EOLhyphen"/>thopoeiae. <hi>Demetrium</hi> emendavit, reliquos è MSS. edi<g ref="char:EOLhyphen"/>dit &amp; Latine vertit; omnes Notis illuſtravit <hi>Tho. Gale,</hi> Sc. Co. M.</item>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Georgii Diaconi</hi> Primarii Ju<g ref="char:EOLhyphen"/>dicis, atque Scriniorum cuſtodis Pachymerii, Epitome Logices Ariſtotelis.</item>
+               <item>Reflections upon the Council of <hi>Trent,</hi> by H. C. <hi>de Luzancy,</hi> M. A. of Chriſt Church, and Deacon of the Church of <hi>England.</hi>
+               </item>
+               <item>Pſalterum Gr. Juxta MS. Alexand. cum verſ. Vulg. per <hi>Tho. Gale.</hi>
+               </item>
+               <item>
+                  <hi>Herodiani Hiſt.</hi> Gr. Lat. cum Notis.</item>
+               <item>
+                  <hi>Zozimi</hi> Hiſtoria Gr. Lat.</item>
+               <item>Catholico Romanus Pacificus, per <hi>Jo. Barnes.</hi>
+               </item>
+               <item>Common Prayer.</item>
+               <item>Lucii Coelii Lactantii Firmiani opera, Notis illuſtra<g ref="char:EOLhyphen"/>ta à <hi>Tho Spark</hi> A. M. ex Aede Chriſti.</item>
+               <item>Bibles with References and Chronology.</item>
+               <item>Dr. <hi>Iſaac Voſſius</hi> de Poematum Cantu.</item>
+               <item>De Oraculis Sibyllinis.</item>
+               <item>Dr. <hi>Mayow</hi> Tractatus quinque de Spiritu nitro<g ref="char:EOLhyphen"/>aereo <hi>&amp;c.</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:31184:6"/>The Certainty of Chriſtian faith, by Dr. <hi>Whitby.</hi>
+               </item>
+               <item>
+                  <hi>Didaſcalocophus</hi> or the deaf and dumb Man's tutor.</item>
+               <item>Epiſtola <hi>Edmundi Dickinſon</hi> Med. Reg. ad <hi>Theodorum Mundanum<g ref="char:punc">▪</g>
+                  </hi> De Quinteſſentia Philoſophorum, &amp; de vera Phyſiologia.</item>
+               <item>Diſſertationes Cyprianicae, ab <hi>Henrico Dodwello</hi> A. M. Dublinienſi.</item>
+               <item>
+                  <hi>Ariſtarchus.</hi> Gr. Lat.</item>
+               <item>Diſſertationes in <hi>Irenaeum,</hi> Auctore <hi>Hen. Dodwello,</hi> A. M. Dublinienſi.</item>
+               <item>Johannis Antiocheni cognomento Malalae Hiſtoria Chronica. E MSS. Cod. Bibliothecae Bodleianae nunc primum edita. Cum Interpret. &amp; Notis <hi>Edm. Chilmeadi.</hi> &amp; triplice Indice Rerum, Autorum, &amp; Vocum Barba<g ref="char:EOLhyphen"/>rarum.</item>
+               <item>A Diſcourſe of Apoplexies, by <hi>Gilb. Cole,</hi> Dr. of Phyſick.</item>
+               <item>De Menſuris &amp; Ponderibus, veterum libri tres, per <hi>Edvard. Bernardum</hi> D. D<g ref="char:punc">▪</g>
+               </item>
+               <item>De Ludis Orientalibus Libri duo, quorum prior eſt duabus partibus, <hi>viz.</hi> 1, Hiſtoria Shahiludii Latinè: de<g ref="char:EOLhyphen"/>inde 2, Hiſtoria Shahiludii Heb. Lat. per tres Judaeos. Liber poſterior continet Hiſtoriam Reliquorum Ludo<g ref="char:EOLhyphen"/>rum Orientis. Horis ſucciſivis olim congeſſit <hi>Thomas Hyde</hi> S. T. D.</item>
+               <item>The Common-Prayer-Book the beſt Companion, &amp;c.</item>
+               <item>The Word of God the beſt Guide.</item>
+               <item>The Theory of Love, by <hi>John Norris,</hi> M. A. and Fellow of All-Souls College <hi>Oxon.</hi>
+               </item>
+               <item>Julii Caeſaris Portus Iccius Illuſtratus: ſive 1. <hi>Gulielmi Somneri</hi> ad <hi>Chiffletii</hi> Librum de <hi>Portu Iccio,</hi> reſponſio<g ref="char:punc">▪</g> nunc primum ex MS. edita. 2. <hi>Caroli du Freſne</hi> Diſſer<g ref="char:EOLhyphen"/>tatio de <hi>Portu Iccio.</hi> Tractatum utrumque Latine ver<g ref="char:EOLhyphen"/>tit, &amp; nova Diſſertatione auxit <hi>Edmundus Gibſon</hi> Art. Bac. è Coll. Reg. <hi>Oxon.</hi>
+               </item>
+               <item>Muſarum Anglicanarum Analecta.</item>
+               <item>Ariſteae Hiſtoria LXXII. Interpretum, Gr. Lat.</item>
+               <item>Praelectiones <hi>Camdenianae</hi> ad Initium vitae <hi>Hadriani</hi> à <hi>Spartiano</hi> Scriptae. Acta <hi>
+                     <g ref="char:V">Ʋ</g>rbis diurna,</hi> &amp;c. Cum Notis in
+<pb facs="tcp:31184:6"/>
+quibus <hi>Veteris</hi> Anni <hi>Romani</hi> ratio explanatur. Auctore <hi>Hen. Dodwello</hi> A. M. Profeſſore <hi>Camdeniano.</hi>
+               </item>
+               <item>A Treatiſe of the Roman <hi>Ports</hi> and <hi>Forts</hi> in <hi>Kent,</hi> By <hi>William Somner.</hi> Publiſh'd by <hi>James Brome,</hi> M. A. Rector of <hi>Cheriton,</hi> and Chaplain to the Cinque Ports. To which is prefixt the Life of Mr. <hi>Somner.</hi>
+               </item>
+               <item>A Collection of <hi>Miſcellanies,</hi> conſiſting of <hi>Poems, Eſſays, Diſcourſes</hi> and <hi>Letters,</hi> Occaſionally written by <hi>John Norris</hi> M. A. and Fellow of All-Souls College <hi>Oxon.</hi>
+               </item>
+               <item>A Vindication of the Divine Authority and Inſpi<g ref="char:EOLhyphen"/>ration of the <hi>Writings</hi> of the Old and New Teſtament. In Anſwer to a Treatiſe lately Tranſlated out of <hi>French,</hi> Entituled, <hi>Five Litters concerning the Inſpiration of the Ho<g ref="char:EOLhyphen"/>ly Scriptures,</hi> by <hi>William Lowth,</hi> B. D. Fellow of St. <hi>John</hi>'s College in <hi>Oxford.</hi>
+               </item>
+               <item>M. Vellei Paterculi <hi>Quae ſuperſunt.</hi> Cum Variis Lectio<g ref="char:EOLhyphen"/>nibus Optimarum Editionum; Doctorum Virorum Con<g ref="char:EOLhyphen"/>jecturis &amp; Caſtigationibus; &amp; Indice Locupletiſſimo. Praemittuntur Annales Velleiani.</item>
+               <item>Plutarchi Chaeronenſis liber <hi>quomodo Juveni Audienda ſint Poemata.</hi> Et Baſilii Magni Oratio ad Juvenes <hi>Quo<g ref="char:EOLhyphen"/>modo cum fructu legere poſſint Graecorum Libros.</hi> Graec. Lat. Variantes Lectiones &amp; Notas adjecit <hi>Johannes Potter</hi> A. B. è Coll. Univerſ.</item>
+            </list>
+            <list>
+               <pb facs="tcp:31184:7"/>
+               <head>Libri in 8<hi rend="sup">vo</hi>. ſub prelo ſudantes.</head>
+               <item>Hiſtoriae Aegypti Compendium, Arab. Lat. per <hi>Edv. Pocock.</hi>
+               </item>
+               <item>Judicium Eccleſiae Catholicae trium primorum ſeculo<g ref="char:EOLhyphen"/>rum de Neceſſitate credendi quod <hi>Dominus noster Jeſus Chriſtus ſit verus Deus</hi> aſſertum Contra M. Simonem Epiſcopium alioſque. Auctore <hi>Georgio Bullo,</hi> S. S. T. D. Presbytero Anglicano.</item>
+               <item>
+                  <hi>Homeri</hi> Ilias, cum Scholiis <hi>Didymi</hi> Gr.</item>
+               <item>
+                  <hi>Xenophon.</hi> Gr. Lat.</item>
+               <item>Titi Lucretii Cari de rerum Natura libri ſex. Nova interpretatione &amp; Notis illuſtrati.</item>
+            </list>
+            <list>
+               <pb facs="tcp:31184:7"/>
+               <head>IN DUODECIMO.</head>
+               <item>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Novi teſtamenti libri omnes<g ref="char:punc">▪</g> Acceſſerunt parallela Scripturae loca, nec non va<g ref="char:EOLhyphen"/>riantes lectiones ex 100 MSS. Codd. multis, &amp; antiquis verſionibus collectae.</item>
+               <item>De Secretione animali cogitata, Autore <hi>Gilb. Cole,</hi> M. D.</item>
+               <item>
+                  <hi>Hugo Grotius</hi> de Veritate Relig. Chriſtianae.</item>
+               <item>S<hi rend="sup">ti</hi>. <hi>Clementis</hi> Epiſt. Gr. Lat. cum Notis.</item>
+               <item>
+                  <hi>Coruelii Nepotis</hi> vitae Excellent. Imper. ex Collat. 4 MSS. recognitae. Acceſſit <hi>Ariſtomenis</hi> vita, ex <hi>Pauſania.</hi>
+               </item>
+               <item>Ars Rationis, maxima ex parte ad mentem Nomina<g ref="char:EOLhyphen"/>lium. lib. 3.</item>
+               <item>
+                  <hi>Guil. Lilii</hi> Grammatica Latina, additis ſubinde ob<g ref="char:EOLhyphen"/>ſervationibus utiliſſ. ex <hi>Deſpaut. Alvar. Sanct. Sciop. Voſſ. Busbeo,</hi> &amp; quotquot nuper ſcripſere, Grammaticis La<g ref="char:EOLhyphen"/>tinis.</item>
+               <item>The Education of Young Gentlemen in 2 parts.</item>
+               <item>The Chriſtian Sacrament and Sacrifice by way of Diſcourſe, Meditation and Prayer, upon the nature, parts and bleſſings of the Holy Communion, by <hi>Dan. Brevent,</hi> D. D.</item>
+               <item>
+                  <hi>Miſsale Romanum,</hi> or the Depth and Myſtery of the Roman <hi>Maſs</hi> 2d Edition reviewed by the Author.</item>
+               <item>
+                  <hi>Maximus Tyrius,</hi> Gr. Lat.</item>
+               <item>
+                  <hi>Williſii</hi> Parmaceutice rationalis.</item>
+               <item>
+                  <hi>Archimedis</hi> Arenarius, &amp; de dimenſione circuli, cum <hi>Eutocii</hi> comment. Gr. Lat. ex verſione &amp; recenſione Dris <hi>Wallis</hi> Prof. Geom. Savil.</item>
+               <item>M. <hi>Juniani Juſtini</hi> Hiſtoriarum, ex Trogo Pompeio lib. 44. ex Codd. MSS. collatione recogniti<g ref="char:punc">▪</g> Editio ſecunda.</item>
+               <item>Catholick Religion maintain'd in the Church of <hi>England,</hi> by <hi>And. Sall,</hi> D. D. <hi>N. Crynes</hi>
+               </item>
+               <item>
+                  <pb facs="tcp:31184:8"/>
+                  <hi>Salluſtii Hiſt.</hi> cum Notis.</item>
+               <item>
+                  <hi>M. Antoninus</hi> de ſeipſo, Gr. Lat. cum Notis.</item>
+               <item>
+                  <hi>Fauſtini</hi> Presbyteri Scriptoris Seculi quarti, &amp; fidei Orthodoxae adverſus Arianos vindicis acerrimi, Opera.</item>
+               <item>Elegantiae Poeticae.</item>
+               <item>Teſtamentum Latinum.</item>
+               <item>Senecae Tragaediae, cum Notis.</item>
+               <item>Grammatica Rationis.</item>
+               <item>Biſhop <hi>Andrews</hi>'s Devotions Gr. Lat.</item>
+               <item>
+                  <hi>Athenagorae</hi> Apologia pro Chriſtianis, &amp; de Reſurre<g ref="char:EOLhyphen"/>ctione Mortuorum, Gr. Lat.</item>
+               <item>
+                  <hi>Lactantius</hi> de Mortibus perſecutorum, &amp; paſſionibus S. Perpetuae &amp; Felicitatis.</item>
+               <item>S. <hi>Barnabae</hi> Epiſtola Gr. Lat. cum Notis.</item>
+               <item>
+                  <hi>Origenis</hi> de Precatione Libellus, Gr. Lat. cum Ver<g ref="char:EOLhyphen"/>ſione &amp; Notis.</item>
+               <item>
+                  <hi>S. Theophilus</hi> ad Autolycum Gr. Lat. cum Notis.</item>
+               <item>
+                  <hi>Epicteti</hi> Enchiridion, <hi>Cebetis</hi> Tabulae, <hi>Theophraſti</hi> Cha<g ref="char:EOLhyphen"/>ract. Gr. Lat. ſecunda Editio cum Notis.</item>
+               <item>Private Devotions by <hi>Edward Bernard,</hi> D. D.</item>
+            </list>
+            <pb facs="tcp:31184:8"/>
+            <pb facs="tcp:31184:9" rendition="simple:additions"/>
+            <pb facs="tcp:31184:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
